@@ -1,835 +1,835 @@
 [
     {
-        "First Name": "Anshuman",
-        "Last Name": "Acharya",
+        "First": "Anshuman",
+        "Last": "Acharya",
         "Institution": "University of California, Berkeley",
-        "Email": "anshuman1998@gmail.com",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": "https://www.anshumanastro.com"
     },
     {
-        "First Name": "Tara",
-        "Last Name": "Akhound-Sadegh",
+        "First": "Tara",
+        "Last": "Akhound-Sadegh",
         "Institution": "Universit\u00e9 de Montr\u00e9al / Mila",
-        "Email": "tara.akhoundsadegh@mila.quebec",
-        "Working Group": "AFM"
+        "Working_Group": "AFM",
+        "Website": ""
     },
     {
-        "First Name": "Justin",
-        "Last Name": "Alsing",
+        "First": "Justin",
+        "Last": "Alsing",
         "Institution": "Stockholm University",
-        "Email": "justin.alsing@fysik.su.se",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Adam",
-        "Last Name": "Andrews",
+        "First": "Adam",
+        "Last": "Andrews",
         "Institution": "INAF OAS Bologna",
-        "Email": "adam.andrews@inaf.it",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Daniel",
-        "Last Name": "Angl\u00e9s-Alc\u00e1zar",
+        "First": "Daniel",
+        "Last": "Angl\u00e9s-Alc\u00e1zar",
         "Institution": "University of Connecticut",
-        "Email": "angles-alcazar@uconn.edu",
-        "Working Group": "TSG"
+        "Working_Group": "TSG",
+        "Website": ""
     },
     {
-        "First Name": "Metin",
-        "Last Name": "Ata",
+        "First": "Metin",
+        "Last": "Ata",
         "Institution": "Stockholm University",
-        "Email": "metin.ata@fysik.su.se",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Anirban",
-        "Last Name": "Bairagi",
+        "First": "Anirban",
+        "Last": "Bairagi",
         "Institution": "Institut d'Astrophysique de Paris",
-        "Email": "anirbanbairagi8@gmail.com",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Deaglan",
-        "Last Name": "Bartlett",
+        "First": "Deaglan",
+        "Last": "Bartlett",
         "Institution": "Oxford University",
-        "Email": "deaglan.bartlett@physics.ox.ac.uk",
-        "Working Group": "AFM, ILI, BORG, SynthObs"
+        "Working_Group": "AFM, ILI, BORG, SynthObs",
+        "Website": "https://deaglanbartlett.github.io/"
     },
     {
-        "First Name": "Adrian",
-        "Last Name": "Bayer",
+        "First": "Adrian",
+        "Last": "Bayer",
         "Institution": "Princeton University",
-        "Email": "abayer@princeton.edu",
-        "Working Group": "AFM, ILI"
+        "Working_Group": "AFM, ILI",
+        "Website": ""
     },
     {
-        "First Name": "Jake",
-        "Last Name": "Bennett",
+        "First": "Jake",
+        "Last": "Bennett",
         "Institution": "University of Nottingham ",
-        "Email": "Jake.Bennett@nottingham.ac.uk",
-        "Working Group": "SFGW"
+        "Working_Group": "SFGW",
+        "Website": ""
     },
     {
-        "First Name": "Aklant",
-        "Last Name": "Bhowmick",
+        "First": "Aklant",
+        "Last": "Bhowmick",
         "Institution": "University of Virginia",
-        "Email": "aklant.app@gmail.com",
-        "Working Group": "BH, COSMO"
+        "Working_Group": "BH, COSMO",
+        "Website": ""
     },
     {
-        "First Name": "Laura",
-        "Last Name": "Blecha",
+        "First": "Laura",
+        "Last": "Blecha",
         "Institution": "University of Florida",
-        "Email": "lblecha@ufl.edu",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Chotipan",
-        "Last Name": "Boonkongkird",
+        "First": "Chotipan",
+        "Last": "Boonkongkird",
         "Institution": "Institut d'Astrophysique de Paris (IAP)",
-        "Email": "b.chotipan@gmail.com",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Olga",
-        "Last Name": "Borodina",
+        "First": "Olga",
+        "Last": "Borodina",
         "Institution": "Center for Astrophysics | Harvard & Smithsonian",
-        "Email": "olga.borodina_nikolskaya@cfa.harvard.edu",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Antoine",
-        "Last Name": "Bourdin",
+        "First": "Antoine",
+        "Last": "Bourdin",
         "Institution": "University of Chicago",
-        "Email": "antoine.bourdin@mail.mcgill.ca",
-        "Working Group": "AFM"
+        "Working_Group": "AFM",
+        "Website": ""
     },
     {
-        "First Name": "Martin",
-        "Last Name": "Bourne",
+        "First": "Martin",
+        "Last": "Bourne",
         "Institution": "University of Hertfordshire",
-        "Email": "m.bourne@herts.ac.uk",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Gregory",
-        "Last Name": "Bryan",
+        "First": "Gregory",
+        "Last": "Bryan",
         "Institution": "Columbia University",
-        "Email": "gb2141@columbia.edu",
-        "Working Group": "BH, COSMO, ILI"
+        "Working_Group": "BH, COSMO, ILI",
+        "Website": ""
     },
     {
-        "First Name": "Jan David",
-        "Last Name": "Burger",
+        "First": "Jan David",
+        "Last": "Burger",
         "Institution": "MPA Garching",
-        "Email": "jadabu92@gmail.com",
-        "Working Group": "COSMO, BH"
+        "Working_Group": "COSMO, BH",
+        "Website": ""
     },
     {
-        "First Name": "Christopher",
-        "Last Name": "Carr",
+        "First": "Christopher",
+        "Last": "Carr",
         "Institution": "Princeton University",
-        "Email": "cc8984@princeton.edu",
-        "Working Group": "SFGW"
+        "Working_Group": "SFGW",
+        "Website": ""
     },
     {
-        "First Name": "Nicolas, Christian, Guy",
-        "Last Name": "Chartier",
+        "First": "Nicolas, Christian, Guy",
+        "Last": "Chartier",
         "Institution": "Seoul National University",
-        "Email": "nicolas.chartier412@gmail.com",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Nianyi",
-        "Last Name": "Chen",
+        "First": "Nianyi",
+        "Last": "Chen",
         "Institution": "Max Planck Institute for Astrophysics",
-        "Email": "nianyi.chen7@gmail.com",
-        "Working Group": "BH, COSMO"
+        "Working_Group": "BH, COSMO",
+        "Website": ""
     },
     {
-        "First Name": "Ena",
-        "Last Name": "Choi",
+        "First": "Ena",
+        "Last": "Choi",
         "Institution": "University of Seoul",
-        "Email": "ena0choi@gmail.com",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Hyunseop (Joseph)",
-        "Last Name": "Choi",
+        "First": "Hyunseop (Joseph)",
+        "Last": "Choi",
         "Institution": "University de Montreal",
-        "Email": "hyunseop.choi@umontreal.ca",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Rachel",
-        "Last Name": "Cochrane",
+        "First": "Rachel",
+        "Last": "Cochrane",
         "Institution": "University of Manchester",
-        "Email": "rcochrane@flatironinstitute.org",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": "https://users.flatironinstitute.org/~rcochrane/"
     },
     {
-        "First Name": "Tiego",
-        "Last Name": "Costa",
+        "First": "Tiego",
+        "Last": "Costa",
         "Institution": "Newcastle University",
-        "Email": "tcosta@mpa-garching.mpg.de",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Carolina",
-        "Last Name": "Cuesta Lazaro",
+        "First": "Carolina",
+        "Last": "Cuesta Lazaro",
         "Institution": "Flatiron Institute",
-        "Email": "carolina.clzr@gmail.com",
-        "Working Group": "ILI, AFM"
+        "Working_Group": "ILI, AFM",
+        "Website": ""
     },
     {
-        "First Name": "Rachel",
-        "Last Name": "Darlinger",
+        "First": "Rachel",
+        "Last": "Darlinger",
         "Institution": "University de Montreal",
-        "Email": "rdarlinger@gmail.com",
-        "Working Group": "ILI, AFM"
+        "Working_Group": "ILI, AFM",
+        "Website": ""
     },
     {
-        "First Name": "Ana Maria",
-        "Last Name": "Delgado",
+        "First": "Ana Maria",
+        "Last": "Delgado",
         "Institution": "Johns Hopkins University",
-        "Email": "ana_maria.delgado@cfa.harvard.edu",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "No\u00e9",
-        "Last Name": "Dia",
+        "First": "No\u00e9",
+        "Last": "Dia",
         "Institution": "Universit\u00e9 de Montr\u00e9al / Mila",
-        "Email": "noe.dia@umontreal.ca",
-        "Working Group": "ILI, AFM"
+        "Working_Group": "ILI, AFM",
+        "Website": ""
     },
     {
-        "First Name": "Simon",
-        "Last Name": "Ding",
+        "First": "Simon",
+        "Last": "Ding",
         "Institution": "Institut d'Astrophysique de Paris",
-        "Email": "simon.ding@iap.fr",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Ludvig",
-        "Last Name": "Doeser",
+        "First": "Ludvig",
+        "Last": "Doeser",
         "Institution": "Stockholm University",
-        "Email": "ludvig.doeser@fysik.su.se",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Jameson",
-        "Last Name": "Dong",
+        "First": "Jameson",
+        "Last": "Dong",
         "Institution": "Johns Hopkins University",
-        "Email": "jdong34@jh.edu",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Marion",
-        "Last Name": "Farcy",
+        "First": "Marion",
+        "Last": "Farcy",
         "Institution": "Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne",
-        "Email": "marion.farcy@epfl.ch",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Simone",
-        "Last Name": "Ferraro",
+        "First": "Simone",
+        "Last": "Ferraro",
         "Institution": "LBNL / University of California, Berkeley",
-        "Email": "sferraro@lbl.gov",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Drummond",
-        "Last Name": "Fielding",
+        "First": "Drummond",
+        "Last": "Fielding",
         "Institution": "NYU",
-        "Email": "drummondfielding@gmail.com",
-        "Working Group": "SFGW"
+        "Working_Group": "SFGW",
+        "Website": "https://dfielding14.github.io/"
     },
     {
-        "First Name": "Emanuele",
-        "Last Name": "Fondi",
+        "First": "Emanuele",
+        "Last": "Fondi",
         "Institution": "Institut d\u2019Astrophysique de Paris",
-        "Email": "emanuelefondi9@gmail.com",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Austen",
-        "Last Name": "Gabrielpillai",
+        "First": "Austen",
+        "Last": "Gabrielpillai",
         "Institution": "Columbia University",
-        "Email": "a.gabrielpillai@gmail.com",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Brianna",
-        "Last Name": "Galgano",
+        "First": "Brianna",
+        "Last": "Galgano",
         "Institution": "Johns Hopkins University",
-        "Email": "bgalgan1@jh.edu",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Fred Angelo",
-        "Last Name": "Garcia",
+        "First": "Fred Angelo",
+        "Last": "Garcia",
         "Institution": "Columbia University",
-        "Email": "fbg2107@columbia.edu",
-        "Working Group": "TSG"
+        "Working_Group": "TSG",
+        "Website": "https://fred144.github.io/"
     },
     {
-        "First Name": "Shy",
-        "Last Name": "Genel",
+        "First": "Shy",
+        "Last": "Genel",
         "Institution": "CCA, Flatiron Institute",
-        "Email": "sgenel@flatironinstitute.org",
-        "Working Group": "TSG"
+        "Working_Group": "TSG",
+        "Website": ""
     },
     {
-        "First Name": "Anna",
-        "Last Name": "Genina",
+        "First": "Anna",
+        "Last": "Genina",
         "Institution": "Max-Planck-Institute for Astrophysics",
-        "Email": "geninadavies@gmail.com",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Minghao",
-        "Last Name": "Guo",
+        "First": "Minghao",
+        "Last": "Guo",
         "Institution": "Princeton University",
-        "Email": "mhguo@princeton.edu",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Boryana",
-        "Last Name": "Hadzhiyska",
+        "First": "Boryana",
+        "Last": "Hadzhiyska",
         "Institution": "University of Cambridge",
-        "Email": "boryanah@alumni.princeton.edu",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "ChangHoon",
-        "Last Name": "Hahn",
+        "First": "ChangHoon",
+        "Last": "Hahn",
         "Institution": "Princeton University",
-        "Email": "chhahn@princeton.edu",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Sultan",
-        "Last Name": "Hassan",
+        "First": "Sultan",
+        "Last": "Hassan",
         "Institution": "NYU",
-        "Email": "sultanier@gmail.com",
-        "Working Group": "SFGW, SynthObs"
+        "Working_Group": "SFGW, SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Lars",
-        "Last Name": "Hernquist",
+        "First": "Lars",
+        "Last": "Hernquist",
         "Institution": "Harvard University",
-        "Email": "lhernquist@cfa.harvard.edu",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Yashar",
-        "Last Name": "Hezaveh",
+        "First": "Yashar",
+        "Last": "Hezaveh",
         "Institution": "Universit\u00e9 de Montr\u00e9al / Mila",
-        "Email": "yashar.hez@gmail.com",
-        "Working Group": "AFM"
+        "Working_Group": "AFM",
+        "Website": ""
     },
     {
-        "First Name": "Michaela",
-        "Last Name": "Hirschmann",
+        "First": "Michaela",
+        "Last": "Hirschmann",
         "Institution": "EPFL",
-        "Email": "michaela.hirschmann@epfl.ch",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Julie",
-        "Last Name": "Hlavacek-Larrondo",
+        "First": "Julie",
+        "Last": "Hlavacek-Larrondo",
         "Institution": "Universit\u00e9 de Montr\u00e9al",
-        "Email": "j.larrondo@umontreal.ca",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Matthew",
-        "Last Name": "Ho",
+        "First": "Matthew",
+        "Last": "Ho",
         "Institution": "Columbia University",
-        "Email": "matthew.annam.ho@gmail.com",
-        "Working Group": "ILI, AFM, BORG, SynthObs, Robustness"
+        "Working_Group": "ILI, AFM, BORG, SynthObs, Robustness",
+        "Website": "https://maho3.github.io/"
     },
     {
-        "First Name": "Shirley",
-        "Last Name": "Ho",
+        "First": "Shirley",
+        "Last": "Ho",
         "Institution": "Flatiron Institute",
-        "Email": "shirleyho@flatironinstitute.org",
-        "Working Group": "ILI, AFM"
+        "Working_Group": "ILI, AFM",
+        "Website": ""
     },
     {
-        "First Name": "Pontus",
-        "Last Name": "Holma",
+        "First": "Pontus",
+        "Last": "Holma",
         "Institution": "Stockholm University",
-        "Email": "pontus.holma@fysik.su.se",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Kartheik",
-        "Last Name": "Iyer",
+        "First": "Kartheik",
+        "Last": "Iyer",
         "Institution": "Flatiron Institute",
-        "Email": "kartheikiyer@gmail.com",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Jens",
-        "Last Name": "Jasche",
+        "First": "Jens",
+        "Last": "Jasche",
         "Institution": "Stockholm University",
-        "Email": "j.jasche@gmx.de",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Sarah",
-        "Last Name": "Jeffreson",
+        "First": "Sarah",
+        "Last": "Jeffreson",
         "Institution": "Princeton University",
-        "Email": "sarah.jeffreson@cfa.harvard.edu",
-        "Working Group": "SFGW"
+        "Working_Group": "SFGW",
+        "Website": ""
     },
     {
-        "First Name": "Niall",
-        "Last Name": "Jeffrey",
+        "First": "Niall",
+        "Last": "Jeffrey",
         "Institution": "University College London",
-        "Email": "n.jeffrey@ucl.ac.uk",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Christian",
-        "Last Name": "Jesperson",
+        "First": "Christian",
+        "Last": "Jesperson",
         "Institution": "Princeton University",
-        "Email": "cj1223@princeton.edu",
-        "Working Group": "ILI, AFM"
+        "Working_Group": "ILI, AFM",
+        "Website": ""
     },
     {
-        "First Name": "Yongseok",
-        "Last Name": "Jo",
+        "First": "Yongseok",
+        "Last": "Jo",
         "Institution": "SkAI",
-        "Email": "yjo@flatironinstitute.org",
-        "Working Group": "TSG"
+        "Working_Group": "TSG",
+        "Website": ""
     },
     {
-        "First Name": "Chang-Goo",
-        "Last Name": "Kim",
+        "First": "Chang-Goo",
+        "Last": "Kim",
         "Institution": "Princeton University",
-        "Email": "cgkim@astro.princeton.edu",
-        "Working Group": "SFGW"
+        "Working_Group": "SFGW",
+        "Website": "https://changgoo.github.io/"
     },
     {
-        "First Name": "Sophie",
-        "Last Name": "Koudmani",
+        "First": "Sophie",
+        "Last": "Koudmani",
         "Institution": "University of Hertfordshire",
-        "Email": "s.koudmani@herts.ac.uk",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": "https://skoudmani.github.io/"
     },
     {
-        "First Name": "Axel",
-        "Last Name": "Lapel",
+        "First": "Axel",
+        "Last": "Lapel",
         "Institution": "Institut d'Astrophysique de Paris",
-        "Email": "axel.lapel@iap.fr",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Guilhem",
-        "Last Name": "Lavaux",
+        "First": "Guilhem",
+        "Last": "Lavaux",
         "Institution": "Institut d'Astrophysique de Paris",
-        "Email": "guilhem.lavaux@iap.fr",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": "https://www.guilhem-lavaux.eu"
     },
     {
-        "First Name": "Florent",
-        "Last Name": "Leclercq",
+        "First": "Florent",
+        "Last": "Leclercq",
         "Institution": "Institut d'Astrophysique de Paris",
-        "Email": "florent.leclercq.2008@polytechnique.org",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Max",
-        "Last Name": "Lee",
+        "First": "Max",
+        "Last": "Lee",
         "Institution": "Columbia University",
-        "Email": "mel2260@columbia.edu",
-        "Working Group": "TSG"
+        "Working_Group": "TSG",
+        "Website": ""
     },
     {
-        "First Name": "Ronan",
-        "Last Name": "Legin",
+        "First": "Ronan",
+        "Last": "Legin",
         "Institution": "Universit\u00e9 de Montr\u00e9al",
-        "Email": "ronan.legin@umontreal.ca",
-        "Working Group": "AFM"
+        "Working_Group": "AFM",
+        "Website": ""
     },
     {
-        "First Name": "Christopher",
-        "Last Name": "Lovell",
+        "First": "Christopher",
+        "Last": "Lovell",
         "Institution": "University of Cambridge",
-        "Email": "chris.lovell.astro@gmail.com",
-        "Working Group": "SynthObs, TSG"
+        "Working_Group": "SynthObs, TSG",
+        "Website": "https://www.christopherlovell.co.uk/"
     },
     {
-        "First Name": "Amanda",
-        "Last Name": "Lue",
+        "First": "Amanda",
+        "Last": "Lue",
         "Institution": "Columbia University",
-        "Email": "al4388@columbia.edu",
-        "Working Group": "TSG"
+        "Working_Group": "TSG",
+        "Website": ""
     },
     {
-        "First Name": "Francisco",
-        "Last Name": "Maion",
+        "First": "Francisco",
+        "Last": "Maion",
         "Institution": "Columbia University",
-        "Email": "fm2912@columbia.edu",
-        "Working Group": "COSMO, AFM"
+        "Working_Group": "COSMO, AFM",
+        "Website": ""
     },
     {
-        "First Name": "Timothy Lucas",
-        "Last Name": "Makinen",
+        "First": "Timothy Lucas",
+        "Last": "Makinen",
         "Institution": "University of Cambridge / Imperial College London",
-        "Email": "lucas.makinen@gmail.com",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": "https://tlmakinen.github.io/"
     },
     {
-        "First Name": "Rosa",
-        "Last Name": "Malandrino",
+        "First": "Rosa",
+        "Last": "Malandrino",
         "Institution": "Institut d\u2019Astrophysique de Paris",
-        "Email": "rosa.malandrino@iap.fr",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Stuart",
-        "Last Name": "McAlpine",
+        "First": "Stuart",
+        "Last": "McAlpine",
         "Institution": "University of Helsinki",
-        "Email": "stuart.mcalpine@fysik.su.se",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Michael",
-        "Last Name": "Messere",
+        "First": "Michael",
+        "Last": "Messere",
         "Institution": "Columbia University",
-        "Email": "mam2645@columbia.edu",
-        "Working Group": "TSG"
+        "Working_Group": "TSG",
+        "Website": ""
     },
     {
-        "First Name": "Chirag",
-        "Last Name": "Modi",
+        "First": "Chirag",
+        "Last": "Modi",
         "Institution": "Flatiron Institute",
-        "Email": "cmodi@flatironinstitute.org",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Sophie",
-        "Last Name": "Newman",
+        "First": "Sophie",
+        "Last": "Newman",
         "Institution": "University of Portsmouth",
-        "Email": "sophie.newman@port.ac.uk",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Yueying",
-        "Last Name": "Ni",
+        "First": "Yueying",
+        "Last": "Ni",
         "Institution": "Harvard University",
-        "Email": "yueying.ni@cfa.harvard.edu",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Boon Kiat",
-        "Last Name": "Oh",
+        "First": "Boon Kiat",
+        "Last": "Oh",
         "Institution": "University of Connecticut",
-        "Email": "boon_kiat.oh@uconn.edu",
-        "Working Group": "TSG"
+        "Working_Group": "TSG",
+        "Website": ""
     },
     {
-        "First Name": "Eve",
-        "Last Name": "Ostriker",
+        "First": "Eve",
+        "Last": "Ostriker",
         "Institution": "Princeton University",
-        "Email": "eco@astro.princeton.edu",
-        "Working Group": "SFGW"
+        "Working_Group": "SFGW",
+        "Website": ""
     },
     {
-        "First Name": "Ruediger",
-        "Last Name": "Pakmor",
+        "First": "Ruediger",
+        "Last": "Pakmor",
         "Institution": "Max Planck Institute for Astrophysics",
-        "Email": "rpakmor@mpa-garching.mpg.de",
-        "Working Group": "COSMO"
+        "Working_Group": "COSMO",
+        "Website": ""
     },
     {
-        "First Name": "Shivam",
-        "Last Name": "Pandey",
+        "First": "Shivam",
+        "Last": "Pandey",
         "Institution": "Johns Hopkins University",
-        "Email": "shivamp@sas.upenn.edu",
-        "Working Group": "ILI, AFM, SynthObs"
+        "Working_Group": "ILI, AFM, SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Viraj",
-        "Last Name": "Pandya",
+        "First": "Viraj",
+        "Last": "Pandya",
         "Institution": "Columbia University",
-        "Email": "vgp2108@columbia.edu",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Nicolas",
-        "Last Name": "Payot",
+        "First": "Nicolas",
+        "Last": "Payot",
         "Institution": "Universit\u00e9 de Montr\u00e9al",
-        "Email": "nicolas.payot@umontreal.ca",
-        "Working Group": "AFM"
+        "Working_Group": "AFM",
+        "Website": ""
     },
     {
-        "First Name": "Lucia",
-        "Last Name": "Perez",
+        "First": "Lucia",
+        "Last": "Perez",
         "Institution": "Flatiron Institute",
-        "Email": "lucia.perez@princeton.edu",
-        "Working Group": "SynthObs, TSG, ILI, AFM"
+        "Working_Group": "SynthObs, TSG, ILI, AFM",
+        "Website": ""
     },
     {
-        "First Name": "Laurence",
-        "Last Name": "Perreault Levasseur",
+        "First": "Laurence",
+        "Last": "Perreault Levasseur",
         "Institution": "Universit\u00e9 de Montr\u00e9al and Mila",
-        "Email": "llevasseur@astro.umontreal.ca",
-        "Working Group": "AFM"
+        "Working_Group": "AFM",
+        "Website": ""
     },
     {
-        "First Name": "Natalie",
-        "Last Name": "Pham",
+        "First": "Natalie",
+        "Last": "Pham",
         "Institution": "Carnegie Mellon University",
-        "Email": "thanhngp@andrew.cmu.edu",
-        "Working Group": "Robustness"
+        "Working_Group": "Robustness",
+        "Website": ""
     },
     {
-        "First Name": "Barnabas",
-        "Last Name": "Poczos",
+        "First": "Barnabas",
+        "Last": "Poczos",
         "Institution": "Carnegie Mellon University",
-        "Email": "bapoczos@andrew.cmu.edu",
-        "Working Group": "Robustness"
+        "Working_Group": "Robustness",
+        "Website": ""
     },
     {
-        "First Name": "Lori",
-        "Last Name": "Porter",
+        "First": "Lori",
+        "Last": "Porter",
         "Institution": "Columbia University",
-        "Email": "lep2176@columbia.edu",
-        "Working Group": "SFGW"
+        "Working_Group": "SFGW",
+        "Website": ""
     },
     {
-        "First Name": "Kasar",
-        "Last Name": "Profit",
+        "First": "Kasar",
+        "Last": "Profit",
         "Institution": "University of Hertfordshire",
-        "Email": "kasar552@gmail.com",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Marine",
-        "Last Name": "Prunier",
+        "First": "Marine",
+        "Last": "Prunier",
         "Institution": "University de Montreal",
-        "Email": "marine.claude.anne.prunier@umontreal.ca",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Eliot",
-        "Last Name": "Quataert",
+        "First": "Eliot",
+        "Last": "Quataert",
         "Institution": "Princeton University",
-        "Email": "eliot.quataert73@gmail.com",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Siamak",
-        "Last Name": "Ravanbakhsh",
+        "First": "Siamak",
+        "Last": "Ravanbakhsh",
         "Institution": "McGill University",
-        "Email": "ravanbakhsh@gmail.com",
-        "Working Group": "AFM"
+        "Working_Group": "AFM",
+        "Website": ""
     },
     {
-        "First Name": "Matthew",
-        "Last Name": "Scoggins",
+        "First": "Matthew",
+        "Last": "Scoggins",
         "Institution": "Columbia University",
-        "Email": "mts2188@columbia.edu",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Samuel",
-        "Last Name": "Sharief",
+        "First": "Samuel",
+        "Last": "Sharief",
         "Institution": "University de Montreal",
-        "Email": "sammy.sharief@umontreal.ca",
-        "Working Group": "AFM, ILI"
+        "Working_Group": "AFM, ILI",
+        "Website": ""
     },
     {
-        "First Name": "Aarti",
-        "Last Name": "Singh",
+        "First": "Aarti",
+        "Last": "Singh",
         "Institution": "Carnegie Mellon University",
-        "Email": "aarti@cs.cmu.edu",
-        "Working Group": "Robustness"
+        "Working_Group": "Robustness",
+        "Website": ""
     },
     {
-        "First Name": "Matthew",
-        "Last Name": "Smith",
+        "First": "Matthew",
+        "Last": "Smith",
         "Institution": "Max-Planck-Institute for Astrophysics",
-        "Email": "msmith@mpa-garching.mpg.de",
-        "Working Group": "SFGW"
+        "Working_Group": "SFGW",
+        "Website": ""
     },
     {
-        "First Name": "Rachel",
-        "Last Name": "Somerville",
+        "First": "Rachel",
+        "Last": "Somerville",
         "Institution": "Flatiron Institute",
-        "Email": "rsomerville@flatironinstitute.org",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Laura",
-        "Last Name": "Sommovigo",
+        "First": "Laura",
+        "Last": "Sommovigo",
         "Institution": "Columbia University",
-        "Email": "lsommovigo@flatironinstitute.org",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Hadi",
-        "Last Name": "Sotoudeh",
+        "First": "Hadi",
+        "Last": "Sotoudeh",
         "Institution": "Universit\u00e9 de Montr\u00e9al",
-        "Email": "hadi.sotoudeh@umontreal.ca",
-        "Working Group": "AFM"
+        "Working_Group": "AFM",
+        "Website": ""
     },
     {
-        "First Name": "Volker",
-        "Last Name": "Springel",
+        "First": "Volker",
+        "Last": "Springel",
         "Institution": "Max Planck Institute for Astrophysics",
-        "Email": "vspringel@mpa-garching.mpg.de",
-        "Working Group": "COSMO"
+        "Working_Group": "COSMO",
+        "Website": ""
     },
     {
-        "First Name": "Tjitske",
-        "Last Name": "Starkenburg",
+        "First": "Tjitske",
+        "Last": "Starkenburg",
         "Institution": "Northwestern University",
-        "Email": "t.starkenburg@gmail.com",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Ulrich",
-        "Last Name": "Steinwandel",
+        "First": "Ulrich",
+        "Last": "Steinwandel",
         "Institution": "Max Planck Institute for Astrophysics",
-        "Email": "ulrich.steinwandel@gmail.com",
-        "Working Group": "SFGW, SynthObs"
+        "Working_Group": "SFGW, SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Richard",
-        "Last Name": "Stiskalek",
+        "First": "Richard",
+        "Last": "Stiskalek",
         "Institution": "Oxford University",
-        "Email": "richard.stiskalek@balliol.ox.ac.uk",
-        "Working Group": "BORG, ILI"
+        "Working_Group": "BORG, ILI",
+        "Website": "https://richard-sti.github.io/"
     },
     {
-        "First Name": "Kung-Yi",
-        "Last Name": "Su",
+        "First": "Kung-Yi",
+        "Last": "Su",
         "Institution": "Northwestern University",
-        "Email": "kungyisu@gmail.com",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Ce",
-        "Last Name": "Sui",
+        "First": "Ce",
+        "Last": "Sui",
         "Institution": "Johns Hopkins University",
-        "Email": "csui1@jh.edu",
-        "Working Group": "ILI, AFM"
+        "Working_Group": "ILI, AFM",
+        "Website": ""
     },
     {
-        "First Name": "James",
-        "Last Name": "Sullivan",
+        "First": "James",
+        "Last": "Sullivan",
         "Institution": "Columbia University",
-        "Email": "jms2561@columbia.edu",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Rosemary",
-        "Last Name": "Talbot",
+        "First": "Rosemary",
+        "Last": "Talbot",
         "Institution": "Max-Planck-Institute for Astrophysics",
-        "Email": "rosie@mpa-garching.mpg.de",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Bryan",
-        "Last Name": "Terrazas",
+        "First": "Bryan",
+        "Last": "Terrazas",
         "Institution": "Oberlin College",
-        "Email": "bterraza@oberlin.edu",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Lieander",
-        "Last Name": "Thiele",
+        "First": "Lieander",
+        "Last": "Thiele",
         "Institution": "University of Tokyo",
-        "Email": "lthiele@g.ecc.u-tokyo.ac.jp",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Paul",
-        "Last Name": "Torrey",
+        "First": "Paul",
+        "Last": "Torrey",
         "Institution": "University of Virgina",
-        "Email": "paul.torrey@virginia.edu",
-        "Working Group": "BH, Cosmo"
+        "Working_Group": "BH, Cosmo",
+        "Website": ""
     },
     {
-        "First Name": "Slava",
-        "Last Name": "Trusov",
+        "First": "Slava",
+        "Last": "Trusov",
         "Institution": "Institut d'Astrophysique de Paris",
-        "Email": "trusov.s.k@gmail.com",
-        "Working Group": "BORG"
+        "Working_Group": "BORG",
+        "Website": ""
     },
     {
-        "First Name": "Francisco",
-        "Last Name": "Villaescusa",
+        "First": "Francisco",
+        "Last": "Villaescusa",
         "Institution": "Flatiron Institute",
-        "Email": "fvillaescusa@flatironinstitute.org",
-        "Working Group": "TSG"
+        "Working_Group": "TSG",
+        "Website": ""
     },
     {
-        "First Name": "Benjamin",
-        "Last Name": "Wandelt",
+        "First": "Benjamin",
+        "Last": "Wandelt",
         "Institution": "Johns Hopkins",
-        "Email": "benwandelt@gmail.com",
-        "Working Group": "ILI, AFM"
+        "Working_Group": "ILI, AFM",
+        "Website": ""
     },
     {
-        "First Name": "Samuel",
-        "Last Name": "Ward",
+        "First": "Samuel",
+        "Last": "Ward",
         "Institution": "Flatiron Institute",
-        "Email": "sward@flatironinstitute.org",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Rainer",
-        "Last Name": "Weinberger",
+        "First": "Rainer",
+        "Last": "Weinberger",
         "Institution": "Potsdam",
-        "Email": "astronomy.rainerweinberger@gmail.com",
-        "Working Group": "BH"
+        "Working_Group": "BH",
+        "Website": ""
     },
     {
-        "First Name": "Stephen",
-        "Last Name": "Wilkins",
+        "First": "Stephen",
+        "Last": "Wilkins",
         "Institution": "University of Sussex",
-        "Email": "s.wilkins@sussex.ac.uk",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Charles",
-        "Last Name": "Wilson",
+        "First": "Charles",
+        "Last": "Wilson",
         "Institution": "University de Montreal",
-        "Email": "charles.wilson@umontreal.ca",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     },
     {
-        "First Name": "Aaron",
-        "Last Name": "Yung",
+        "First": "Aaron",
+        "Last": "Yung",
         "Institution": "Space Telescope Science Institute",
-        "Email": "l.y.aaronyung@gmail.com",
-        "Working Group": "SynthObs"
+        "Working_Group": "SynthObs",
+        "Website": ""
     },
     {
-        "First Name": "Justine",
-        "Last Name": "Zeghal",
+        "First": "Justine",
+        "Last": "Zeghal",
         "Institution": "Universit\u00e9 de Montr\u00e9al - MILA",
-        "Email": "justine.zeghal@umontreal.ca",
-        "Working Group": "AFM"
+        "Working_Group": "AFM",
+        "Website": ""
     },
     {
-        "First Name": "Yao",
-        "Last Name": "Zhang",
+        "First": "Yao",
+        "Last": "Zhang",
         "Institution": "Johns Hopkins University",
-        "Email": "yzhan898@jh.edu",
-        "Working Group": "ILI, AFM"
+        "Working_Group": "ILI, AFM",
+        "Website": ""
     },
     {
-        "First Name": "Xiaosheng",
-        "Last Name": "Zhao",
+        "First": "Xiaosheng",
+        "Last": "Zhao",
         "Institution": "Johns Hopkins University",
-        "Email": "xszhao20@gmail.com",
-        "Working Group": "ILI"
+        "Working_Group": "ILI",
+        "Website": ""
     }
 ]
