@@ -65,7 +65,7 @@
     {
         "First": "Jake",
         "Last": "Bennett",
-        "Institution": "University of Nottingham ",
+        "Institution": "University of Nottingham",
         "Working_Group": "SFGW",
         "Website": ""
     },
@@ -133,7 +133,7 @@
         "Website": ""
     },
     {
-        "First": "Nicolas, Christian, Guy",
+        "First": "Nicolas",
         "Last": "Chartier",
         "Institution": "Seoul National University",
         "Working_Group": "ILI",
@@ -168,7 +168,7 @@
         "Website": "https://users.flatironinstitute.org/~rcochrane/"
     },
     {
-        "First": "Tiego",
+        "First": "Tiago",
         "Last": "Costa",
         "Institution": "Newcastle University",
         "Working_Group": "BH",
@@ -393,7 +393,7 @@
     },
     {
         "First": "Christian",
-        "Last": "Jesperson",
+        "Last": "Jespersen",
         "Institution": "Princeton University",
         "Working_Group": "ILI, AFM",
         "Website": ""
@@ -742,7 +742,7 @@
         "Website": ""
     },
     {
-        "First": "Lieander",
+        "First": "Leander",
         "Last": "Thiele",
         "Institution": "University of Tokyo",
         "Working_Group": "ILI",
@@ -751,8 +751,8 @@
     {
         "First": "Paul",
         "Last": "Torrey",
-        "Institution": "University of Virgina",
-        "Working_Group": "BH, Cosmo",
+        "Institution": "University of Virginia",
+        "Working_Group": "BH, COSMO",
         "Website": ""
     },
     {
