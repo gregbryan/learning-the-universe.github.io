@@ -25,7 +25,7 @@ into our differentiable simulator. Our team has developed
 new differentiable galaxy weak lensing software, rigorously validated against
 analytical calculations. This validation process, utilized by ILI-WG, has
 facilitated the creation of new weak lensing data compression for ILI.
-We are also developing new metrics for to assess the quality of peculiar
+We are also developing new metrics to assess the quality of peculiar
 velocity reconstruction with regard to distance data {% cite Stiskalek:2025 %}.
 These metrics were used to assess the accuracy of the new Manticore-Main
 inference {% cite McAlpine:2024 %} for which we found orders of magnitude of
