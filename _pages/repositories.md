@@ -35,7 +35,7 @@ nav_order: 7
 {% endif %}
 {% endif %}
 
-## GitHub Repositories
+## Collaboration Repositories
 
 {% if site.data.repositories.github_repos %}
 

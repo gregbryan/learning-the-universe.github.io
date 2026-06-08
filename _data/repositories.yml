@@ -1,18 +1,40 @@
-#github_users:
-
-repo_description_lines_max: 2
-
 github_repos:
-  - maho3/ltu-ili
-  - maho3/ltu-cmass
-  - maho3/ltu-gobig
-  - synthesizer-project/synthesizer
-  - shivampcosmo/CHARM
-  - shivampcosmo/GOTHAM
-  - Ciela-Institute/tarp
-  - Ciela-Institute/PQM
-  - Ciela-Institute/Astromatic
-  - shivampcosmo/GODMAX
-  - changgoo/PRFM
-  - learning-the-universe/learning-the-universe.github.io
-  - DeaglanBartlett/symbolic_pofk/
+  - name: maho3/ltu-ili
+    url: https://github.com/maho3/ltu-ili
+    description: All-in-one framework for machine learning parameter inference in astrophysics and cosmology
+  - name: maho3/ltu-cmass
+    url: https://github.com/maho3/ltu-cmass
+    description: Modular forward simulator of CMASS-NGC galaxy clustering
+  - name: maho3/ltu-gobig
+    url: https://github.com/maho3/ltu-gobig
+    description: Scripts and experiments for the LtU Go Big large-scale CMASS-NGC inference experiment
+  - name: synthesizer-project/synthesizer
+    url: https://github.com/synthesizer-project/synthesizer
+    description: Python code for generating synthetic astrophysical observables from simulations
+  - name: shivampcosmo/CHARM
+    url: https://github.com/shivampcosmo/CHARM
+    description: Auto-regressive neural network model for generating halo catalogs from particle-mesh simulations
+  - name: shivampcosmo/GOTHAM
+    url: https://github.com/shivampcosmo/GOTHAM
+    description: Transformer-based generative model for creating halo catalogs from low-resolution PM simulations
+  - name: Ciela-Institute/tarp
+    url: https://github.com/Ciela-Institute/tarp
+    description: Coverage tests for validating the quality of posterior estimators
+  - name: Ciela-Institute/PQM
+    url: https://github.com/Ciela-Institute/PQM
+    description: Implementation of PQMass, a goodness-of-fit test for comparing distributions
+  - name: Ciela-Institute/Astromatic
+    url: https://github.com/Ciela-Institute/Astromatic
+    description: Week-long ML and astrophysics program for undergraduate students at the Ciela Institute
+  - name: shivampcosmo/GODMAX
+    url: https://github.com/shivampcosmo/GODMAX
+    description: JAX-based model for gas thermodynamics and matter distribution
+  - name: changgoo/PRFM
+    url: https://github.com/changgoo/PRFM
+    description: Tools for computing star formation rates using pressure-regulated, feedback-modulated theory
+  - name: learning-the-universe/learning-the-universe.github.io
+    url: https://github.com/learning-the-universe/learning-the-universe.github.io
+    description: Official website for the Simons Collaboration on Learning the Universe
+  - name: DeaglanBartlett/symbolic_pofk
+    url: https://github.com/DeaglanBartlett/symbolic_pofk
+    description: Precise symbolic emulators of the linear and nonlinear matter power spectrum
