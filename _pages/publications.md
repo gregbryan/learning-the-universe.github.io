@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Collaboration related publications for 2023-2024
+description: Collaboration related publications for 2023-2026
 nav: true
 nav_order: 5
 ---
