@@ -1,4 +1,4 @@
-github_repos:
+repos:
   - name: maho3/ltu-ili
     url: https://github.com/maho3/ltu-ili
     description: All-in-one framework for machine learning parameter inference in astrophysics and cosmology

@@ -2,10 +2,10 @@
   <div class="card h-100">
     <div class="card-body">
       <h5 class="card-title">
-        <a href="{{ include.repository.url }}" target="_blank" rel="noopener noreferrer">{{ include.repository.name }}</a>
+        <a href="{{ include.repository.url | escape }}" target="_blank" rel="noopener noreferrer">{{ include.repository.name | escape }}</a>
       </h5>
       {% if include.repository.description %}
-        <p class="card-text">{{ include.repository.description }}</p>
+        <p class="card-text">{{ include.repository.description | escape }}</p>
       {% endif %}
     </div>
   </div>
