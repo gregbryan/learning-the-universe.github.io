@@ -18,4 +18,4 @@ Photometry for CAMELS-SAM galaxies is also being generated using Synthesizer, le
 
 Data is available at: [https://camels.readthedocs.io/en/latest/photometry.html](https://camels.readthedocs.io/en/latest/photometry.html)
 
-This work contributes to the broader effort of learning the universe through synthetic observations {% cite lovell2024learninguniversecosmologicalastrophysical %}.
+The CAMELS photometry dataset and its application to cosmological and astrophysical parameter inference is described in {% cite lovell2024learninguniversecosmologicalastrophysical %}.
