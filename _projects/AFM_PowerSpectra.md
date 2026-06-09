@@ -20,7 +20,7 @@ By leveraging symbolic regression, the SYREN suite generates simple and interpre
 - **Improved Efficiency**: At least 10 times faster than traditional numerical emulators on both CPUs and GPUs, making it ideal for large-scale data analyses.
 - **Transparency and Interpretability**: Unlike black-box models, SYREN-NEW provides clear, symbolic expressions that are easily interpretable, enhancing the understanding of the underlying physical processes.
 
-SYREN-NEW offers a powerful tool for modern cosmological research, enabling faster, more accurate simulations with full transparency. Publicly available [code](https://github.com/DeaglanBartlett/symbolic_pofk/) ensures that these advancements are accessible for researchers in the field.
+SYREN-NEW offers a powerful tool for modern cosmological research, enabling faster, more accurate simulations with full transparency. Publicly available [code](https://github.com/DeaglanBartlett/symbolic_pofk/) ensures that these advancements are accessible for researchers in the field. More recent work extends these emulators to additional cosmological models {% cite 2025arXiv251018749B %}.
 
 <div class="row">
     <div class="col-sm">
