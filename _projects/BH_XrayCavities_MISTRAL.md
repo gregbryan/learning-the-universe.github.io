@@ -5,7 +5,7 @@ description: Investigate the presence and properties of AGN-driven X-ray cavitie
 img:
 importance: 1
 category: Black Holes
-related_publications: in prep
+related_publications: true
 ---
 
 This project investigates the presence and properties of AGN-driven X-ray cavities in zoom-in cosmological simulations of massive galaxies using the SMBH feedback model Mistral {% cite Farcy2025 %}, in comparison with observations from the Chandra X-ray Observatory.

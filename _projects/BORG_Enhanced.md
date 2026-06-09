@@ -19,14 +19,14 @@ potentially offering the most precise handling of
 redshift space distortions in galaxy surveys to date.
 We have developed new galaxy bias model capable of going beyond the simple
 remappings that we were using so far, and be resistant to model
-misspecifications {% cite Ding:2024 %}. We have also investigated innovative
+misspecifications {% cite 2024A&A...690A.236D %}. We have also investigated innovative
 methods for computing modified gravity evolution, enabling its incorporation
 into our differentiable simulator. Our team has developed
 new differentiable galaxy weak lensing software, rigorously validated against
 analytical calculations. This validation process, utilized by ILI-WG, has
 facilitated the creation of new weak lensing data compression for ILI.
 We are also developing new metrics to assess the quality of peculiar
-velocity reconstruction with regard to distance data {% cite Stiskalek:2025 %}.
+velocity reconstruction with regard to distance data {% cite Stiskalek:2025xaw %}.
 These metrics were used to assess the accuracy of the new Manticore-Main
 inference {% cite McAlpine:2024 %} for which we found orders of magnitude of
 improvements over all available distance tracers.

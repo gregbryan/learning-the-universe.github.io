@@ -5,7 +5,7 @@ description: Accelerated cosmological inference with the SDSS-CMASS galaxy sampl
 img: assets/img/cmass-icon.jpg
 importance: 2
 category: Implicit Inference
-related_publications: false
+related_publications: true
 ---
 
 
@@ -21,4 +21,4 @@ We are currently developing the flagship LtU cosmological analysis using the CMA
 
 To analyze this data, we have developed a modular simulation pipeline that can rapidly generate mock galaxy catalogs for the CMASS sample. This pipeline, incorporating tools from the AFM, Robustness, and SynthObs groups, enables the application of Implicit Likelihood Inference (ILI) techniques to infer cosmological parameters from real data. This effort represents the largest use of ILI for a spectroscopic galaxy survey to date, and it is the first to use accelerated forward models to emulate full N-body simulations, making it a more efficient approach for handling the complexity of cosmological data.
 
-By applying these ILI techniques, we aim to further refine statistical methods in cosmology and contribute to the development of analysis frameworks for future astronomical surveys. 
+By applying these ILI techniques, we aim to further refine statistical methods in cosmology and contribute to the development of analysis frameworks for future astronomical surveys. This pipeline makes use of the LtU-ILI framework {% cite 2024arXiv240205137H %}.

@@ -17,3 +17,5 @@ In parallel, we have also developed tools to extract SDSS-like mock lightcones f
 Photometry for CAMELS-SAM galaxies is also being generated using Synthesizer, leveraging the stored star formation histories from the SC-SAM outputs. This enables efficient and scalable computation of broadband fluxes across the full CAMELS-SAM parameter space. The resulting synthetic photometry provides a key bridge between model predictions and upcoming survey data, and supports targeted analyses of parameter sensitivities in galaxy SEDs.
 
 Data is available at: [https://camels.readthedocs.io/en/latest/photometry.html](https://camels.readthedocs.io/en/latest/photometry.html)
+
+The CAMELS photometry dataset and its application to cosmological and astrophysical parameter inference is described in {% cite lovell2024learninguniversecosmologicalastrophysical %}.
