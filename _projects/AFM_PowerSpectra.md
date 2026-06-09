@@ -8,7 +8,7 @@ category: Accelerated Forward Models
 related_publications: true
 ---
 
-This year saw the completion of a wide range of dark matter accelerated forward models, learning from numerical training sets and enabling the advanced inference techniques employed by the collaboration. This included an exceptionally precise learned symbolic emulator for the linear power spectrum {% cite 2024A&A...686A.209B %} and for the non-linear power spectrum {% cite 2024A&A...686A.150B %} (SYREN-HALOFIT). These emulators not only cover the <span>&Lambda;</span>CDM model, but include the effects of massive neutrinos and dynamical dark energy {% cite 2024arXiv241014623S %} (SYREN-NEW).
+The collaboration has developed a wide range of dark matter accelerated forward models, learning from numerical training sets and enabling the advanced inference techniques employed by the collaboration. This included an exceptionally precise learned symbolic emulator for the linear power spectrum {% cite 2024A&A...686A.209B %} and for the non-linear power spectrum {% cite 2024A&A...686A.150B %} (SYREN-HALOFIT). These emulators not only cover the <span>&Lambda;</span>CDM model, but include the effects of massive neutrinos and dynamical dark energy {% cite 2024arXiv241014623S %} (SYREN-NEW).
 
 These tools provide symbolic regression-based emulators designed to provide rapid and precise calculations of the matter power spectrum <span>P(k)</span> for large-scale structure surveys. Such predictions are crucial for efficiently constraining the neutrino mass and the equation of state of dark energy, both of which are important for current and future cosmological analyses.
 
